@@ -1,0 +1,25 @@
+{
+	"storyName": "leo",
+	"hideFreeplay": false,
+	"weekBackground": "Leo",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"leo",
+			"leolel",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "leo thats it lmao"
+}
