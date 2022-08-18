@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Leo.png"><SubTexture name="Leo idle0000" x="2069" y="1210" width="513" height="594" frameX="-165" frameY="-115" frameWidth="800" frameHeight="800" />
+<SubTexture name="Leo idle0001" x="2069" y="606" width="476" height="604" frameX="-173" frameY="-105" frameWidth="800" frameHeight="800" />
+<SubTexture name="Leo idle0002" x="1597" y="612" width="445" height="611" frameX="-175" frameY="-98" frameWidth="800" frameHeight="800" />
+<SubTexture name="Leo idle0003" x="0" y="717" width="448" height="617" frameX="-177" frameY="-92" frameWidth="800" frameHeight="800" />
+<SubTexture name="Leo left0000" x="448" y="717" width="458" height="612" frameX="-165" frameY="-94" frameWidth="800" frameHeight="800" />
+<SubTexture name="Leo left0001" x="906" y="717" width="468" height="612" frameX="-167" frameY="-94" frameWidth="800" frameHeight="800" />
+<SubTexture name="Leo left0002" x="1597" y="0" width="472" height="612" frameX="-167" frameY="-94" frameWidth="800" frameHeight="800" />
+<SubTexture name="Leo up0000" x="0" y="0" width="543" height="717" frameX="-144" frameY="-41" frameWidth="800" frameHeight="800" />
+<SubTexture name="Leo up0001" x="543" y="0" width="534" height="707" frameX="-141" frameY="-51" frameWidth="800" frameHeight="800" />
+<SubTexture name="Leo up0002" x="1077" y="0" width="520" height="707" frameX="-141" frameY="-51" frameWidth="800" frameHeight="800" />
+<SubTexture name="Leo down0000" x="561" y="1944" width="582" height="529" frameX="-114" frameY="-139" frameWidth="800" frameHeight="800" />
+<SubTexture name="Leo down0001" x="1494" y="1334" width="556" height="536" frameX="-121" frameY="-132" frameWidth="800" frameHeight="800" />
+<SubTexture name="Leo down0002" x="0" y="1944" width="561" height="536" frameX="-121" frameY="-132" frameWidth="800" frameHeight="800" />
+<SubTexture name="Leo right0000" x="2069" y="0" width="746" height="606" frameX="-28" frameY="-103" frameWidth="800" frameHeight="800" />
+<SubTexture name="Leo right0001" x="0" y="1334" width="747" height="610" frameX="-27" frameY="-99" frameWidth="800" frameHeight="800" />
+<SubTexture name="Leo right0002" x="747" y="1334" width="747" height="610" frameX="-27" frameY="-99" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

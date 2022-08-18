@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGaudio.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dancing bg0000" x="0" y="0" width="2560" height="819"/>
+	<SubTexture name="dancing bg0001" x="0" y="0" width="2560" height="819"/>
+	<SubTexture name="dancing bg0002" x="2560" y="0" width="2560" height="819"/>
+	<SubTexture name="dancing bg0003" x="2560" y="0" width="2560" height="819"/>
+	<SubTexture name="dancing bg0004" x="5120" y="0" width="2560" height="819"/>
+	<SubTexture name="dancing bg0005" x="5120" y="0" width="2560" height="819"/>
+	<SubTexture name="dancing bg0006" x="0" y="819" width="2560" height="819"/>
+	<SubTexture name="dancing bg0007" x="0" y="819" width="2560" height="819"/>
+	<SubTexture name="dancing bg0008" x="2560" y="819" width="2560" height="819"/>
+	<SubTexture name="dancing bg0009" x="2560" y="819" width="2560" height="819"/>
+	<SubTexture name="dancing bg0010" x="5120" y="819" width="2560" height="819"/>
+	<SubTexture name="dancing bg0011" x="5120" y="819" width="2560" height="819"/>
+	<SubTexture name="dancing bg0012" x="0" y="1638" width="2560" height="819"/>
+	<SubTexture name="dancing bg0013" x="0" y="1638" width="2560" height="819"/>
+</TextureAtlas>
