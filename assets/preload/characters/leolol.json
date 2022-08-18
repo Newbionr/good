@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-220
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Leo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				-219
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Leo right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-175
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Leo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-222
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Leo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-256
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Leo down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "leo/Leo",
+	"position": [
+		-180,
+		-130
+	],
+	"healthicon": "icon-leo",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-160,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
